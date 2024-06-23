@@ -357,3 +357,14 @@ The Random Forest model achieves the highest F1-Score, which balances precision 
 Based on the precision, recall, and F1-Score metrics, the Random Forest model performs the best in predicting loan defaults. This model strikes a good balance between identifying positive cases (defaults) and minimizing false positives.
 
 For more details and the complete code, refer to the notebook `model_training.ipynb`.
+
+### Team Videos
+
+1. [**Nestor Rojas**](https://youtu.be/iZWeZNim6cE)
+2. [** **]()
+3. [** **]()
+4. [** **]()
+
+
+
+
