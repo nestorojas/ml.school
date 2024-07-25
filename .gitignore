@@ -131,3 +131,7 @@ dmypy.json
 .DS_Store
 program/code/
 _proc/
+.metaflow
+mlruns/
+mlartifacts/
+**/metaflow/workspace/
